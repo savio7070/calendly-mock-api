@@ -41,6 +41,10 @@
         {
             "date": "2025-11-12",
             "start_time": "10:00"
+        },
+        {
+            "date": "string",
+            "start_time": "string"
         }
     ]
 }

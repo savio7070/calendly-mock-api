@@ -23,3 +23,8 @@ def book_appointment(booking: BookingRequest):
     if not result:
         raise HTTPException(status_code=400, detail="Slot not available or already booked.")
     return result
+
+
+@router.get("/ping")
+def ping():
+    return {"message": "Calendly API working fine!"}

@@ -1,1 +1,18 @@
-[]
+[
+    {
+        "booking_id": "APPT-string-282",
+        "status": "confirmed",
+        "confirmation_code": "JVP0RF",
+        "details": {
+            "appointment_type": "sakshi",
+            "date": "string",
+            "start_time": "string",
+            "patient": {
+                "name": "string",
+                "email": "string",
+                "phone": "string"
+            },
+            "reason": "string"
+        }
+    }
+]
