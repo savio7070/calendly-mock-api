@@ -4,7 +4,7 @@
         "status": "confirmed",
         "confirmation_code": "JVP0RF",
         "details": {
-            "appointment_type": string
+            "appointment_type": "string",
             "date": "string",
             "start_time": "string",
             "patient": {
